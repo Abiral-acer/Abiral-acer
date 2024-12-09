@@ -2,7 +2,7 @@
 
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
-    🌟 Welcome to Abiral Panta's GitHub Profile! | Tech Enthusiast 🚀 | Aspiring Data Scientist 📊 | Fitness Lover 🏋️‍♂️ | Lifelong Learner 📚 🌟
+    🌟 Welcome to Abiral Panta's GitHub Profile! | Tech Enthusiast 🚀 | Fitness Lover 🏋️‍♂️ | Lifelong Learner 📚 🌟
   </marquee>
 </div>
 
